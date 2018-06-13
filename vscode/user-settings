@@ -1,0 +1,29 @@
+{
+    // icon (extensions: vscode-icons)
+    "workbench.iconTheme": "vscode-icons",
+
+    // Theme: Dracula
+    "workbench.colorTheme": "Dracula",
+    "workbench.colorCustomizations": {
+        "editorIndentGuide.activeBackground": "#fff"
+    },
+
+    // Python
+    "python.pythonPath": "/usr/local/bin/python",
+
+    // Editor
+    "editor.renderWhitespace": "boundary",
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 120,
+    "files.trimTrailingWhitespace": true,
+    "editor.formatOnSave": true,
+
+    // Prettier
+    "javascript.format.enable": false,
+    "prettier.eslintIntegration": true,
+
+    // Font
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Fira Code, Menlo, Monaco, monospace",
+    "editor.fontLigatures": true
+}

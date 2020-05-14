@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#FFFFFFCC",
+        "font" : "System",
+        "color" : "#FFFFFF66"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#FEFFFF66"
+      },
+      "backgroundSelected" : "#33225066",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#FFFFFFD8"
+      },
+      "iconPaddingHorizontal" : 4,
+      "paddingVertical" : 3,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 5,
+      "background" : "#72727266",
+      "spacing" : 4,
+      "text" : {
+        "size" : 34,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System Light",
+        "color" : "#FFFFFFFF"
+      },
+      "backgroundSelected" : "#482F6E66"
+    },
+    "window" : {
+      "color" : "#81818166",
+      "paddingHorizontal" : 0,
+      "width" : 400,
+      "borderPadding" : 0,
+      "borderColor" : "#0000007F",
+      "blur" : 15,
+      "roundness" : 3,
+      "paddingVertical" : 1
+    },
+    "credit" : "b.engineer",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#6D6D6DFF",
+      "thickness" : 2
+    },
+    "name" : "Transparent Purple Light"
+  }
+}
